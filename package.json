@@ -1,0 +1,26 @@
+{
+  "name": "fy-quarter",
+  "version": "1.0.0",
+  "description": "Calculates the quarter and fiscal year for a given date and fiscal year start month.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aaa.js"
+  },
+  "author": {
+    "name": "Jordan McDougall",
+    "email": "me@jordanmcdougall.dev",
+    "url": "https://jordanmcdougall.dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fiscal",
+    "year",
+    "quarter"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
