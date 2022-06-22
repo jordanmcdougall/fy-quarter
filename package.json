@@ -1,6 +1,6 @@
 {
   "name": "fy-quarter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calculates the quarter and fiscal year for a given date and fiscal year start month.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
