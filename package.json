@@ -13,6 +13,10 @@
     "email": "me@jordanmcdougall.dev",
     "url": "https://jordanmcdougall.dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordanmcdougall/fy-quarter"
+  },
   "license": "MIT",
   "keywords": [
     "fiscal",
