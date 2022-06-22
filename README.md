@@ -37,6 +37,8 @@ This parameter should corrospond to the month where the first quarter begins.
 
 ## Example
 
+This example shows the output for 23rd June 2022 where the fiscal year starts in april.
+
 ```bash
 const fyQuarter = require("fy-quarter");
 
